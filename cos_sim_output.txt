@@ -1,0 +1,128 @@
+CV skill 'data science' matches JD skill 'gan' with similarity 0.20
+CV skill 'data science' matches JD skill 'logistic regression' with similarity 0.32
+CV skill 'data science' matches JD skill 'ml' with similarity 0.26
+CV skill 'data science' matches JD skill 'seaborn' with similarity 0.24
+CV skill 'data science' matches JD skill 'sql' with similarity 0.44
+CV skill 'data science' matches JD skill 'clustering' with similarity 0.39
+CV skill 'data science' matches JD skill 'deployment' with similarity 0.13
+CV skill 'data science' matches JD skill 'spacy' with similarity 0.18
+CV skill 'data science' matches JD skill 'object detection' with similarity 0.26
+CV skill 'data science' matches JD skill 'django' with similarity 0.18
+CV skill 'data science' matches JD skill 'transformers' with similarity 0.17
+CV skill 'data science' matches JD skill 'data pipelines' with similarity 0.49
+CV skill 'data science' matches JD skill 'evaluation' with similarity 0.31
+CV skill 'data science' matches JD skill 'classification' with similarity 0.48
+CV skill 'data science' matches JD skill 'pandas' with similarity 0.35
+CV skill 'data science' matches JD skill 'ocr' with similarity 0.25
+CV skill 'data science' matches JD skill 'azure' with similarity 0.23
+CV skill 'data science' matches JD skill 'feature engineering' with similarity 0.45
+CV skill 'data science' matches JD skill 'deep learning' with similarity 0.37
+CV skill 'data science' matches JD skill 'nlp' with similarity 0.27
+CV skill 'data science' matches JD skill 'neural networks' with similarity 0.35
+CV skill 'data science' matches JD skill 'cnn' with similarity 0.26
+CV skill 'tensorflow' matches JD skill 'gan' with similarity 0.18
+CV skill 'tensorflow' matches JD skill 'logistic regression' with similarity 0.15
+CV skill 'tensorflow' matches JD skill 'ml' with similarity 0.28
+CV skill 'tensorflow' matches JD skill 'seaborn' with similarity 0.15
+CV skill 'tensorflow' matches JD skill 'machine learning' with similarity 0.40
+CV skill 'tensorflow' matches JD skill 'sql' with similarity 0.11
+CV skill 'tensorflow' matches JD skill 'clustering' with similarity 0.31
+CV skill 'tensorflow' matches JD skill 'deployment' with similarity 0.11
+CV skill 'tensorflow' matches JD skill 'spacy' with similarity 0.13
+CV skill 'tensorflow' matches JD skill 'object detection' with similarity 0.37
+CV skill 'tensorflow' matches JD skill 'django' with similarity 0.35
+CV skill 'tensorflow' matches JD skill 'transformers' with similarity 0.17
+CV skill 'tensorflow' matches JD skill 'data pipelines' with similarity 0.30
+CV skill 'tensorflow' matches JD skill 'evaluation' with similarity 0.18
+CV skill 'tensorflow' matches JD skill 'classification' with similarity 0.33
+CV skill 'tensorflow' matches JD skill 'pandas' with similarity 0.30
+CV skill 'tensorflow' matches JD skill 'ocr' with similarity 0.18
+CV skill 'tensorflow' matches JD skill 'azure' with similarity 0.18
+CV skill 'tensorflow' matches JD skill 'feature engineering' with similarity 0.32
+CV skill 'tensorflow' matches JD skill 'data science' with similarity 0.27
+CV skill 'tensorflow' matches JD skill 'nlp' with similarity 0.17
+CV skill 'tensorflow' matches JD skill 'cnn' with similarity 0.36
+CV skill 'machine learning' matches JD skill 'gan' with similarity 0.25
+CV skill 'machine learning' matches JD skill 'logistic regression' with similarity 0.38
+CV skill 'machine learning' matches JD skill 'ml' with similarity 0.37
+CV skill 'machine learning' matches JD skill 'seaborn' with similarity 0.18
+CV skill 'machine learning' matches JD skill 'sql' with similarity 0.32
+CV skill 'machine learning' matches JD skill 'deployment' with similarity 0.19
+CV skill 'machine learning' matches JD skill 'spacy' with similarity 0.20
+CV skill 'machine learning' matches JD skill 'django' with similarity 0.25
+CV skill 'machine learning' matches JD skill 'transformers' with similarity 0.20
+CV skill 'machine learning' matches JD skill 'data pipelines' with similarity 0.29
+CV skill 'machine learning' matches JD skill 'evaluation' with similarity 0.39
+CV skill 'machine learning' matches JD skill 'pandas' with similarity 0.25
+CV skill 'machine learning' matches JD skill 'ocr' with similarity 0.29
+CV skill 'machine learning' matches JD skill 'azure' with similarity 0.24
+CV skill 'machine learning' matches JD skill 'feature engineering' with similarity 0.48
+CV skill 'machine learning' matches JD skill 'nlp' with similarity 0.42
+CV skill 'machine learning' matches JD skill 'cnn' with similarity 0.42
+CV skill 'ml' matches JD skill 'gan' with similarity 0.34
+CV skill 'ml' matches JD skill 'logistic regression' with similarity 0.24
+CV skill 'ml' matches JD skill 'seaborn' with similarity 0.21
+CV skill 'ml' matches JD skill 'machine learning' with similarity 0.37
+CV skill 'ml' matches JD skill 'sql' with similarity 0.28
+CV skill 'ml' matches JD skill 'clustering' with similarity 0.24
+CV skill 'ml' matches JD skill 'deployment' with similarity 0.11
+CV skill 'ml' matches JD skill 'spacy' with similarity 0.17
+CV skill 'ml' matches JD skill 'object detection' with similarity 0.21
+CV skill 'ml' matches JD skill 'django' with similarity 0.18
+CV skill 'ml' matches JD skill 'transformers' with similarity 0.13
+CV skill 'ml' matches JD skill 'data pipelines' with similarity 0.15
+CV skill 'ml' matches JD skill 'evaluation' with similarity 0.31
+CV skill 'ml' matches JD skill 'classification' with similarity 0.26
+CV skill 'ml' matches JD skill 'pandas' with similarity 0.25
+CV skill 'ml' matches JD skill 'ocr' with similarity 0.23
+CV skill 'ml' matches JD skill 'azure' with similarity 0.20
+CV skill 'ml' matches JD skill 'feature engineering' with similarity 0.12
+CV skill 'ml' matches JD skill 'data science' with similarity 0.26
+CV skill 'ml' matches JD skill 'deep learning' with similarity 0.36
+CV skill 'ml' matches JD skill 'nlp' with similarity 0.18
+CV skill 'ml' matches JD skill 'neural networks' with similarity 0.35
+CV skill 'ml' matches JD skill 'cnn' with similarity 0.27
+CV skill 'neural networks' matches JD skill 'gan' with similarity 0.28
+CV skill 'neural networks' matches JD skill 'logistic regression' with similarity 0.32
+CV skill 'neural networks' matches JD skill 'ml' with similarity 0.35
+CV skill 'neural networks' matches JD skill 'seaborn' with similarity 0.18
+CV skill 'neural networks' matches JD skill 'sql' with similarity 0.27
+CV skill 'neural networks' matches JD skill 'clustering' with similarity 0.43
+CV skill 'neural networks' matches JD skill 'deployment' with similarity 0.12
+CV skill 'neural networks' matches JD skill 'spacy' with similarity 0.19
+CV skill 'neural networks' matches JD skill 'object detection' with similarity 0.49
+CV skill 'neural networks' matches JD skill 'django' with similarity 0.20
+CV skill 'neural networks' matches JD skill 'transformers' with similarity 0.27
+CV skill 'neural networks' matches JD skill 'data pipelines' with similarity 0.22
+CV skill 'neural networks' matches JD skill 'evaluation' with similarity 0.29
+CV skill 'neural networks' matches JD skill 'pandas' with similarity 0.22
+CV skill 'neural networks' matches JD skill 'ocr' with similarity 0.33
+CV skill 'neural networks' matches JD skill 'azure' with similarity 0.22
+CV skill 'neural networks' matches JD skill 'feature engineering' with similarity 0.35
+CV skill 'neural networks' matches JD skill 'data science' with similarity 0.35
+CV skill 'neural networks' matches JD skill 'nlp' with similarity 0.35
+CV skill 'neural networks' matches JD skill 'cnn' with similarity 0.49
+CV skill 'keras' matches JD skill 'gan' with similarity 0.39
+CV skill 'keras' matches JD skill 'logistic regression' with similarity 0.12
+CV skill 'keras' matches JD skill 'ml' with similarity 0.30
+CV skill 'keras' matches JD skill 'seaborn' with similarity 0.24
+CV skill 'keras' matches JD skill 'machine learning' with similarity 0.34
+CV skill 'keras' matches JD skill 'sql' with similarity 0.14
+CV skill 'keras' matches JD skill 'clustering' with similarity 0.24
+CV skill 'keras' matches JD skill 'deployment' with similarity 0.08
+CV skill 'keras' matches JD skill 'spacy' with similarity 0.21
+CV skill 'keras' matches JD skill 'object detection' with similarity 0.33
+CV skill 'keras' matches JD skill 'django' with similarity 0.32
+CV skill 'keras' matches JD skill 'transformers' with similarity 0.27
+CV skill 'keras' matches JD skill 'data pipelines' with similarity 0.22
+CV skill 'keras' matches JD skill 'evaluation' with similarity 0.21
+CV skill 'keras' matches JD skill 'classification' with similarity 0.33
+CV skill 'keras' matches JD skill 'pandas' with similarity 0.33
+CV skill 'keras' matches JD skill 'ocr' with similarity 0.26
+CV skill 'keras' matches JD skill 'azure' with similarity 0.18
+CV skill 'keras' matches JD skill 'feature engineering' with similarity 0.19
+CV skill 'keras' matches JD skill 'data science' with similarity 0.25
+CV skill 'keras' matches JD skill 'deep learning' with similarity 0.47
+CV skill 'keras' matches JD skill 'nlp' with similarity 0.25
+CV skill 'keras' matches JD skill 'neural networks' with similarity 0.43
+CV skill 'keras' matches JD skill 'cnn' with similarity 0.50
